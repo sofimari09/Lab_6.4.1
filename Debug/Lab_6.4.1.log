@@ -1,0 +1,5 @@
+﻿  6.4.1.cpp
+D:\STUDY\Алгоритмізація та програмування\In progres\Lab_6.4\Lab_6.4.1\6.4.1.cpp(25,13): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\STUDY\Алгоритмізація та програмування\In progres\Lab_6.4\Lab_6.4.1\6.4.1.cpp(49,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\STUDY\Алгоритмізація та програмування\In progres\Lab_6.4\Lab_6.4.1\6.4.1.cpp(75,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Lab_6.4.1.vcxproj -> D:\STUDY\Алгоритмізація та програмування\In progres\Lab_6.4\Lab_6.4.1\Debug\Lab_6.4.1.exe
